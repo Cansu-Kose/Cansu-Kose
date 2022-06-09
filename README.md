@@ -17,5 +17,4 @@
 
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cansukose/d8c0c482-8d5e-4a84-93da-22cf4ba8ad22.png" /></a>
 
-![WakeTime All Times](https://wakatime.com/share/@cansukose/6f79dade-ef63-48f2-a364-acf22484f718.svg)
 
