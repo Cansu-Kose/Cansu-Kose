@@ -16,6 +16,6 @@
 </p>
 
  
-<p float="center" >
+
 ![WakeTime All Times](https://wakatime.com/share/@cansukose/6f79dade-ef63-48f2-a364-acf22484f718.svg)
-</p>
+
