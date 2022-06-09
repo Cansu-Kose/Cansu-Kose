@@ -16,5 +16,6 @@
 </p>
 
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cansukose/d8c0c482-8d5e-4a84-93da-22cf4ba8ad22.png" /></a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cansukose/42721262-4945-4cef-92d5-c5080489571f.png" /></a>
 
 
