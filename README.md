@@ -15,7 +15,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cansu-Kose&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cansukose/d8c0c482-8d5e-4a84-93da-22cf4ba8ad22.png" /></a>
+
 
 
 
