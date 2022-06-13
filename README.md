@@ -17,7 +17,7 @@
 
  ## 📌 WakaTime
  
-<p float="center">
+<p float="center"  width="70%>
 <img src="https://wakatime.com/share/@cansukose/4a99bba5-bbf6-497b-853b-37bfa3e6d166.svg" />
 </p>
 
