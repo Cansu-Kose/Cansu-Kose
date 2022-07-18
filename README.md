@@ -15,11 +15,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cansu-Kose&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
- ## 📌 WakaTime
- 
-<p float="center" >
-<img src="https://wakatime.com/share/@cansukose/4a99bba5-bbf6-497b-853b-37bfa3e6d166.svg" width="500" />
-</p>
+
 
 
 
